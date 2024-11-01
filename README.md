@@ -10,7 +10,7 @@ With Bruta Type, the message is not only read; it’s experienced.
 
 Bruta Type is available for free under the SIL Open Font License (OFL). 
 
-![Nata Sans preview](./Nata.svg)
+![Bruta Type preview](./BRUTA-TYPE.svg)
 
 Bruta Type web specimen: [Bruta Type web specimen](https://dnlzqn.xyz/bruta)
 
