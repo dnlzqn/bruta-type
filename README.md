@@ -1,5 +1,6 @@
 # About Bruta Type
 **Bruta Type is a bold and expressive typeface, designed to communicate with strength and personality.**
+
 Its geometric structure and solid forms evoke an industrial character, with firm lines and marked contrasts that create a powerful visual presence. 
 Each letter is characterized by daring proportions and defined angles, establishing a visual rhythm that turns every word into a graphic statement.
 
