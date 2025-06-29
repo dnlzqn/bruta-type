@@ -1,27 +1,39 @@
-# About Bruta Type
-**Bruta Type is a bold and expressive typeface, designed to communicate with strength and personality.**
+# BRUTA TYPE
 
-Its geometric structure and solid forms evoke an industrial character, with firm lines and marked contrasts that create a powerful visual presence. 
-Each letter is characterized by daring proportions and defined angles, establishing a visual rhythm that turns every word into a graphic statement.
+**Monospaced. Geometric. Unapologetic.**
 
-Bruta Type combines functionality with aesthetics, achieving a balance between readability and experimental design. 
-Its unique appearance makes it ideal for projects where text needs to stand out and reinforce the visual identity, whether in editorial design, branding, or signage. 
-With Bruta Type, the message is not only read; it’s experienced.
+Bruta is a bold and expressive typeface with a rigid skeleton and zero tolerance for ornament.  
+It’s built for order, but comfortable with dissent.
 
-Bruta Type is available for free under the SIL Open Font License (OFL). 
+With squared shapes, heavy structure and sharp cuts, Bruta speaks in a tone somewhere between brutalist signage and bureaucratic sarcasm.  
+Ideal for manifestos, angry labels, absurd forms, institutional posters, and typographic deadpan.
+
+Available for free under the SIL Open Font License.  
+No italics. No apologies.
 
 ![Bruta Type preview](./BRUTA-TYPE.svg)
 
-Bruta Type web specimen: [Bruta Type web specimen](https://dnlzqn.xyz/bruta)
+→ [Web specimen](https://dnlzqn.xyz/bruta)
+
+---
 
 ## License
 
-**Bruta Type is released under the SIL Open Font License (OFL).**
+**SIL Open Font License (OFL).**
 
-This license permits you to freely download, use, modify, and distribute the font for both personal and commercial purposes. However, it's important to note that while you can freely distribute the font, you cannot sell it as a standalone product. Additionally, you must include the original license with the font and refrain from imposing any additional restrictions.
+You can use, modify, and redistribute Bruta for both personal and commercial projects.  
+Just don’t sell it as a standalone product, and always include the original license.  
+No added restrictions. No nonsense.
+
+[Read the full license →](https://scripts.sil.org/OFL)
+
+---
 
 ## Author
 
-[dnlzqn.xyz](https://www.dnlzqn.xyz/), Daniel Uzquiano. Contact: [daniel.uzquiano@gmail.com](mailto:daniel.uzquiano@gmail.com)
+Made in 2025 by [dnlzqn.xyz](https://www.dnlzqn.xyz/)  
+Contact: [daniel.uzquiano@gmail.com](mailto:daniel.uzquiano@gmail.com)
 
-Bruta Type was developed using GlyphsApp.
+Drawn in Glyphs. Released with restraint.
+
+---
