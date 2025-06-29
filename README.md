@@ -11,7 +11,7 @@ Ideal for manifestos, angry labels, absurd forms, institutional posters, and typ
 Available for free under the SIL Open Font License.  
 No italics. No apologies.
 
-![Bruta Type preview](./BRUTA-TYPE.svg)
+![Bruta Type preview](./BRUTA-TYPE.gif)
 
 → [Web specimen](https://dnlzqn.xyz/bruta)
 
